@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("hello Github");
 
         System.out.println("branch");
+        System.out.println("push Test");
+
     }
 }
