@@ -7,6 +7,6 @@ public class GitTest {
 
         System.out.println("branch");
         System.out.println("push Test");
-
+        System.out.println("pull Test");
     }
 }
